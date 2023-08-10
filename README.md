@@ -19,7 +19,7 @@ SW를 개발하는 분들께 마음 속 깊은 응원을 보냅니다.   from �
 + 주요업무 : SW 모델러ㆍ개발자, 개발 방법론 개발자, 품질 관리자, PM(프로젝트 관리자), ISP 컨설턴트, 강사 등.
 + 주요 자격증 : PMP, CISA, 정보처리기사(1급), 인증심사원 등
 + 주요 저서 :
-<a href="https://search.kyobobook.co.kr/search?keyword=C%20%EA%B0%9C%EB%B0%9C%20%EB%A7%88%EC%8A%A4%ED%84%B0&gbCode=TOT&target=total" target="_black">  
+<a href="https://search.kyobobook.co.kr/search?keyword=C%20%EA%B0%9C%EB%B0%9C%20%EB%A7%88%EC%8A%A4%ED%84%B0&gbCode=TOT&target=total" target = "_blank">  
 	<img src="https://github.com/sweetPro-Tutorial/sweetPro-Tutorial/blob/main/books-image.png">
 </a>
 
