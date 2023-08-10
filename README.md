@@ -1,4 +1,8 @@
-# sweetPro
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=sweet%20Programming&fontSize=90" />	
+</div>
+
+# sweet Programming
 
 Hi. I'm YANG SangBong.
 
