@@ -21,16 +21,13 @@ SW를 개발하는 분들께 마음 속 깊은 응원을 보냅니다.
 	<img src="https://github.com/sweetPro-Tutorial/sweetPro-Tutorial/blob/main/books-image.png">
 </a>
 
-<button onclick="window.open('https://github.com/sweetPro-Tutorial/C-Masterclass/blob/master')">소스 코드로 가기</button>
-<button onclick="window.open('https://search.kyobobook.co.kr/search?keyword=C%20%EA%B0%9C%EB%B0%9C%20%EB%A7%88%EC%8A%A4%ED%84%B0&gbCode=TOT&target=total')">교보문고로 가기</button>
 
-교보문고 URL :
+링크 :
 
-https://search.kyobobook.co.kr/search?keyword=C%20%EA%B0%9C%EB%B0%9C%20%EB%A7%88%EC%8A%A4%ED%84%B0&gbCode=TOT&target=total
++ [소스 코드로 가기](https://search.kyobobook.co.kr/search?keyword=C%20%EA%B0%9C%EB%B0%9C%20%EB%A7%88%EC%8A%A4%ED%84%B0&gbCode=TOT&target=total)
 
-소스 코드 URL :
++ [교보문고로 가기](https://search.kyobobook.co.kr/search?keyword=C%20%EA%B0%9C%EB%B0%9C%20%EB%A7%88%EC%8A%A4%ED%84%B0&gbCode=TOT&target=total)
 
-https://github.com/sweetPro-Tutorial/C-Masterclass/blob/master
 
 ---
 
