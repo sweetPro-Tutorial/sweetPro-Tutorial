@@ -21,6 +21,11 @@ SW를 개발하는 분들께 마음 속 깊은 응원을 보냅니다.
 	<img src="https://github.com/sweetPro-Tutorial/sweetPro-Tutorial/blob/main/books-image.png">
 </a>
 
+교보문고 URL :
+https://search.kyobobook.co.kr/search?keyword=C%20%EA%B0%9C%EB%B0%9C%20%EB%A7%88%EC%8A%A4%ED%84%B0&gbCode=TOT&target=total"
+
+소스 코드 URL :
+https://github.com/sweetPro-Tutorial/C-Masterclass/blob/master
 
 ---
 
